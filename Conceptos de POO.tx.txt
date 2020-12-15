@@ -1,2 +1,3 @@
 Programacion Orientada a Objetos 
 Concepto 1 : La programacion orientado a Objetos es paradigma o un modelo a seguir para resolver probelmas 
+Concepto 2 : LA POO resuelve un problema identificando objetos en un escenario 
